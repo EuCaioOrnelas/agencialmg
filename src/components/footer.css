@@ -1,10 +1,14 @@
-#columns {
+/*#columns {
   display: flex;
   align-items: flex-end;
   width: 1800px;
   background-color: #2b4c7e;
   padding: 30px 50px;
   justify-content: space-around;
+}  */
+
+#columns {
+  display: none;
 }
 
 #footer {
@@ -12,7 +16,7 @@
   padding: 20px 10px;
 }
 
-#columns #columnone {
+/*#columns #columnone {
   display: flex;
   flex-direction: column;
 }
@@ -47,7 +51,7 @@
   letter-spacing: 2px;
   padding-left: 3px;
   text-transform: uppercase;
-}
+} */
 
 #credits {
   text-align: center;
