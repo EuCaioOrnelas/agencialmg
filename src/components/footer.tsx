@@ -6,7 +6,7 @@ function Footer() {
         <div id="columns">
           <div id="columnone">
             <div id="Logo">
-              <img src="../public/logo.png" />
+              <img src="../public/logo.png" alt="logolmg" />
             </div>
             <div id="text">
               <p>
@@ -18,23 +18,24 @@ function Footer() {
           </div>
 
           <div id="columntwo"></div>
-          <div id="menu">
+          <div id="menurapido">
+            <h2>Menu</h2>
             <div className="separacao">
               <span></span>
             </div>
             <div id="links">
               <ul>
                 <li>
-                  <a href=""></a>
+                  <a href="">Inicio</a>
                 </li>
                 <li>
-                  <a href=""></a>
+                  <a href="">Serviços</a>
                 </li>
                 <li>
-                  <a href=""></a>
+                  <a href="">Contato</a>
                 </li>
                 <li>
-                  <a href=""></a>
+                  <a href="">Sobre nós</a>
                 </li>
               </ul>
             </div>
